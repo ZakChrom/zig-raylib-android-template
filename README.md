@@ -2,7 +2,7 @@
 ### Usage
 #### Git clone this and cd into the cloned folder
 #### Make a directory called android
-#### Download the android ndk and sdk and put them into the android folder renamed to sdk and ndk
+#### Download the android ndk and sdk and unzip them into the android folder with their folders renamed to ndk and sdk
 #### Then run these commands:
 ```
 # I dont think its necessary to cd but im too lazy to test
@@ -17,3 +17,5 @@ cd ../../../../
 #### Now you have game.apk :cat_thubms:
 #### Remember to change the make_keystore.sh to not have the default password and name
 #### Also change the build.sh and files in java directory to have your package names instead of dev.calion.test
+
+##### Credit: raylibs wiki that this tutorial is based on
