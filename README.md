@@ -17,5 +17,7 @@ cd ../../../../
 #### Now you have game.apk :cat_thubms:
 #### Remember to change the make_keystore.sh to not have the default password and name
 #### Also change the build.sh and files in java directory to have your package names instead of dev.calion.test
+#### Also also change the icons in assets folder to have your icons
+#### Also also also check raylibs wiki for any weird stuff about android or info thats not here
 
 ##### Credit: raylibs wiki that this tutorial is based on
