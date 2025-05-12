@@ -2,7 +2,7 @@
 ### Usage
 #### Git clone this and cd into the cloned folder
 #### Make a directory called android
-#### Download the android ndk and sdk and unzip them into the android folder with their folders renamed to ndk and sdk
+#### Download the android ndk and sdk and unzip them in the android folder with their folders renamed to ndk and sdk
 #### Then run these commands:
 ```
 # I dont think its necessary to cd but im too lazy to test
