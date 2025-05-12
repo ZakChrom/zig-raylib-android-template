@@ -1,0 +1,9 @@
+android/
+android/*
+raylib/
+raylib/*
+zig-out/
+zig-out/*
+.zig-cache/
+.zig-cache/*
+*.apk
